@@ -5,9 +5,9 @@ This repo contains my assignments for **CP104**, which is all about learning the
 - Variables and Data Types
 - Control Flow (if statements, loops)
 - Functions and Modules
-- Lists, Tuples, and Dictionaries
+- Lists
 - File Handling
-- Basic Algorithmic Problem-Solving
+- Problem-Solving
 
 The assignments helped me develop a solid foundation in Python, preparing me for more advanced topics and problem-solving in programming.
 
